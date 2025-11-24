@@ -50,6 +50,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Enable Chat, Chat Features
 
 ### Host-Only
+- Force Start
 - Dead Troll, Increase Timer, Skip Meeting
 - Kill While Vanished/Anyone
 - No Option Limits, Mass Revive, Force Imposter
@@ -83,7 +84,6 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 1. Install **BepInEx** for Among Us (if not already present).
    - [AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp.zip)  
    - [AmongUs_BepInEx_Steam_Itch](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
-
 2. Place **BepInEx** in your among us folder
 3. Download ZenithX.dll
    - [ZenithX](https://github.com/ReactorCoreDev/ZenithX/releases/download/ZenithX/ZenithX.dll)
