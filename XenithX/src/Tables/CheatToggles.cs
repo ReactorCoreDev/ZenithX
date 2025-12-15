@@ -1,0 +1,174 @@
+using System;
+using System.Reflection;
+
+namespace ZenithX
+{
+    public struct CheatToggles
+    {
+        //Player
+        public static bool noClip;
+        public static bool speedBoost;
+        public static bool teleportPlayer;
+        public static bool teleportCursor;
+        public static bool reportBody;
+        public static bool killPlayer;
+        public static bool telekillPlayer;
+        public static bool murderPlayer;
+        public static bool murderAll;
+        public static bool forceAumRpcForEveryone;
+        public static bool invertControls;
+        //Roles
+        public static bool changeRole;
+        public static bool zeroKillCd;
+        public static bool completeMyTasks;
+        public static bool killReach;
+        public static bool killAnyone;
+        public static bool endlessSsDuration;
+        public static bool endlessBattery;
+        public static bool endlessTracking;
+        public static bool noTrackingCooldown;
+        public static bool noTrackingDelay;
+        public static bool noVitalsCooldown;
+        public static bool noVentCooldown;
+        public static bool endlessVentTime;
+        public static bool endlessVanish;
+        public static bool killVanished;
+        public static bool noVanishAnim;
+        public static bool noShapeshiftAnim;
+
+        //ESP
+        public static bool showPlayerInfo;
+        public static bool fullBright;
+        public static bool seeGhosts;
+        public static bool seeRoles;
+        public static bool seeDisguises;
+        public static bool revealVotes;
+        public static bool moreLobbyInfo;
+
+        //Camera
+        public static bool spectate;
+        public static bool zoomOut;
+        public static bool freecam;
+
+        //Minimap
+        public static bool mapCrew;
+        public static bool mapImps;
+        public static bool mapGhosts;
+        public static bool colorBasedMap;
+
+        //Tracers
+        public static bool tracersImps;
+        public static bool tracersCrew;
+        public static bool tracersGhosts;
+        public static bool tracersBodies;
+        public static bool colorBasedTracers;
+        public static bool distanceBasedTracers;
+
+        //Chat
+        public static bool alwaysChat;
+        public static bool chatJailbreak;
+
+        //Ship
+        public static bool closeMeeting;
+        public static bool doorsSab;
+        public static bool unfixableLights;
+        public static bool commsSab;
+        public static bool elecSab;
+        public static bool reactorSab;
+        public static bool oxygenSab;
+        public static bool mushSab;
+        public static bool mushSpore;
+        public static bool spamCloseAllDoors;
+        public static bool autoOpenDoorsOnUse;
+
+        //Vents
+        public static bool useVents;
+        public static bool walkVent;
+        public static bool kickVents;
+
+        // Host-Only
+        public static bool impostorHack;
+        public static bool godMode;
+        public static bool evilVote;
+        public static bool voteImmune;
+
+        //Passive
+        public static bool unlockFeatures;
+        public static bool freeCosmetics;
+        public static bool avoidBans;
+
+        //Custom
+        public static bool noOptionsLimits;
+        public static bool RGBMode;
+        public static bool revive;
+        public static bool noAbilityCD;
+        // Other
+        public static bool EnableCheatDetection = true;
+        public static bool AutoKickCheaters = false;
+        public static bool LogCheatAttempts = true;
+
+        // Others
+        public static bool init;
+        public static bool fakeScan;
+        public static bool fakeTrash;
+        public static bool autoKillNearby;
+        public static bool changeMapToSabotage;
+        public static bool protectPlayer;
+        public static bool spamOpenAllDoors;
+        public static bool closeAllDoors;
+        public static bool openAllDoors;
+        public static bool ejectPlayer;
+        
+        //Notifications
+        public static bool notifyOnDeath;
+        public static bool notifyOnDisconnect;
+        public static bool notifyOnVent;
+        public static bool showNotificationLog;
+
+        // Animations
+        public static bool animShields;
+        public static bool animAsteroids;
+        public static bool animEmptyGarbage;
+        public static bool animScan;
+        public static bool animCamsInUse;
+
+        public static void DisablePPMCheats(string variableToKeep)
+        {
+            reportBody = variableToKeep != "reportBody" ? false : reportBody;
+            killPlayer = variableToKeep != "killPlayer" ? false : killPlayer;
+            telekillPlayer = variableToKeep != "telekillPlayer" ? false : telekillPlayer;
+            spectate = variableToKeep != "spectate" ? false : spectate;
+            changeRole = variableToKeep != "changeRole" ? false : changeRole;
+            teleportPlayer = variableToKeep != "teleportPlayer" ? false : teleportPlayer;
+        }
+
+        public static bool shouldPPMClose()
+        {
+            return !changeRole && !reportBody && !murderPlayer && !spectate && !teleportPlayer;
+        }
+
+        public static void panicMode()
+        {
+            try
+            {
+                // Get all public static fields
+                FieldInfo[] fields = typeof(CheatToggles).GetFields(BindingFlags.Public | BindingFlags.Static);
+
+                foreach (FieldInfo field in fields)
+                {
+                    // Only reset boolean fields
+                    if (field.FieldType == typeof(bool))
+                    {
+                        field.SetValue(null, false);
+                    }
+                }
+
+                ZenithX.Log($"Reset {fields.Length} cheat toggles to false");
+            }
+            catch (Exception ex)
+            {
+                ZenithX.Error($"Failed to reset toggles: {ex.Message}");
+            }
+        }
+    }
+}
