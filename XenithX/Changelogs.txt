@@ -1,7 +1,0 @@
-1: V17 support
-2: Custom sounds!!!!
-3: Detective map shows up instead of the normal map when your a detective (Bug fix)
-4: Access sabotage map as crewmate
-5: Change 3 reverted due to finding out its wrong
-6: No ability cooldown fix and better methods
-7: Alot of features added
