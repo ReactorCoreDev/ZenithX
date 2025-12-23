@@ -1,4 +1,4 @@
-# ZenithX – Advanced Utility Menu for Among Us
+# ZenithX Advanced Utility Menu for Among Us
 
 > **Disclaimer:**
 > - This mod is **not affiliated** with *Among Us* or **Innersloth LLC**.
@@ -10,7 +10,7 @@
 
 ## About ZenithX
 
-ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It enables players to unlock, modify, and experiment with gameplay through an intuitive interface offering complete control over the game’s environment, roles, and mechanics.
+ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It enables players to unlock, modify, and experiment with gameplay through an interface offering complete control over the game’s environment, roles, and mechanics.
 
 ---
 
@@ -87,7 +87,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 2. Place **BepInEx** in your among us folder
 3. Download ZenithX.dll
    - [ZenithX](https://github.com/ReactorCoreDev/ZenithX/releases/download/ZenithX/ZenithX.dll)
-4. Place it in: your Among Us folder/BepInEx/Plugins/
+4. Place it in: Among Us Folder/BepInEx/Plugins/
 5. Launch the game.
 6. ZenithX automatically creates: %LocalAppData%/ZenithX/Sounds/
 7. Open the menu with the toggle key **Del** and enjoy!
