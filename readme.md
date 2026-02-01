@@ -103,5 +103,5 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 
 ---
 
-## ✔ Notes
+## Notes
 - ZenithX is intended **for educational, experimental, and personal use only**.
