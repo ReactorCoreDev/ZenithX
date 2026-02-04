@@ -53,7 +53,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Force Start
 - Dead Troll, Increase Timer, Skip Meeting
 - Kill While Vanished/Anyone
-- No Option Limits, Mass Revive, Force Imposter
+- No Option Limits, Mass Revive, Force Impostor
 - Teleport All
 - **Buggy:** Impostor Hack / God Mode / Evil Vote / Vote Immunity
 - **Murder:** Kill / Telekill / Kill All Crewmates/Impostors/Everyone
@@ -75,7 +75,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - On Death, Disconnect, Vent Use
 
 ### Player Stats
-- Dynamic Increases/Decreases for All Stats
+- Increases/Decreases for All Stats
 
 ---
 
@@ -87,9 +87,9 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 2. Place **BepInEx** in your among us folder
 3. Download ZenithX.dll
    - [ZenithX](https://github.com/ReactorCoreDev/ZenithX/releases/download/ZenithX/ZenithX.dll)
-4. Place it in: Among Us Folder/BepInEx/Plugins/
-5. Launch the game.
-6. ZenithX automatically creates: %LocalAppData%/ZenithX/Sounds/
+4. Place it in BepInEx/Plugins
+5. Launch the game
+6. ZenithX automatically creates: %localappdata%/ZenithX/Sounds
 7. Open the menu with the toggle key **Del** and enjoy!
 
 ---
@@ -100,6 +100,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - **Sounds & Utilities:** Custom Implementation
 - **Inspired Functions:** MalumMenu
 - **Improved Functions:** ReactorCoreDev
+- **Other Functions:** ReactorCoreDev
 
 ---
 
