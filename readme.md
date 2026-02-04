@@ -1,4 +1,4 @@
-# ZenithX Advanced Utility Menu for Among Us
+# ZenithX, An Advanced Utility Menu for Among Us
 
 > **Disclaimer:**
 > - This mod is **not affiliated** with *Among Us* or **Innersloth LLC**.
