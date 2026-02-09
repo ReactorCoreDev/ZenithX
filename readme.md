@@ -22,60 +22,170 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - No Ability Cooldown, Invert Controls
 - **Teleport:** To Cursor / To Player
 - **Murder:** Murder Player / Murder All
+- Force Aum RPC For Everyone
+- No Ability Cooldown toggle separation
+- Invert Controls toggle
 
 ### ESP
-- Show Player Info, See Roles, See Ghosts, No Shadows
-- Reveal Votes, More Lobby Info
-- **Camera:** Zoom Out / Spectate / Freecam
-- **Tracers:** Crewmates / Impostors / Ghosts / Bodies / Color-based
-- **Minimap:** Crewmates / Impostors / Ghosts / Color-based
+- Show Player Info, See Roles, See Ghosts
+- No Shadows (FullBright)
+- Reveal Votes
+- More Lobby Info
+
+**Camera**
+- Zoom Out
+- Spectate
+- Freecam
+
+**Tracers**
+- Crewmates
+- Impostors
+- Ghosts
+- Dead Bodies
+- Color-based Tracers
+
+**Minimap**
+- Crewmates
+- Impostors
+- Ghosts
+- Color-based
 
 ### Roles
 - Set Fake Role
-- **Impostor:** Kill Reach / Kill Anyone / No Cooldown / Auto Kill
-- **Shapeshifter:** No Animation / Endless Duration
-- **Crewmate:** Task Menu
-- **Tracker:** Endless Tracking / No Delay / No Cooldown
-- **Engineer:** Endless Vent Time / No Cooldown
-- **Scientist:** Endless Battery / No Cooldown
+
+**Impostor**
+- Allow Tasks **NEW**
+- Kill Reach
+- Kill Anyone
+- No Kill Cooldown
+- Auto Kill Nearby
+
+**Shapeshifter**
+- No Shapeshift Animation
+- Endless Shapeshift Duration
+- Shapeshift All **NEW**
+- Reset Shapeshifts **NEW**
+
+**Crewmate**
+- Task Menu
+
+**Tracker**
+- Endless Tracking
+- No Track Delay
+- No Track Cooldown
+- Track Reach **NEW**
+
+**Engineer**
+- Endless Vent Time
+- No Vent Cooldown
+
+**Scientist**
+- Endless Battery
+- No Vitals Cooldown
+
+**Detective** **NEW**
+- Interrogate Reach
+- Infinite Interrogations
 
 ### Ship
-- Map Swap to Sabotage Map
-- Auto-Open Doors, Unfixable Lights, Infinite Doors
-- Report Body, Close Meeting, Force Start
-- **Sabotage:** Reactor / O2 / Lights / Comms / Doors / MushroomMixup
-- **Vents:** Unlock All / Kick All / Walk in Vents
+- Change Map to Sabotage Map
+- Auto-Open Doors On Use
+- Unfixable Lights
+- Infinite Doors
+- Report Body
+- Close Meeting
+
+**Sabotage**
+- Reactor
+- Oxygen
+- Lights
+- Comms
+- Doors Menu
+- MushroomMixup
+
+**Vents**
+- Unlock Vents
+- Kick All From Vents
+- Walk In Vents
 
 ### Chat
-- Enable Chat, Chat Features
+- Enable Chat
+- Chat Mimic **NEW**
+- Chat Features / Jailbreak
 
 ### Host-Only
 - Force Start
-- Dead Troll, Increase Timer, Skip Meeting
-- Kill While Vanished/Anyone
-- No Option Limits, Mass Revive, Force Impostor
+- Dead Troll
+- Increase Lobby Timer
+- Skip Meeting
+- Revive Any
+- Revive All
+- Force Impostor
 - Teleport All
-- **Buggy:** Impostor Hack / God Mode / Evil Vote / Vote Immunity
-- **Murder:** Kill / Telekill / Kill All Crewmates/Impostors/Everyone
+- No Options Limits
+
+**Buggy**
+- Impostor Hack
+- God Mode
+- Evil Vote
+- Vote Immune
+
+**Murder**
+- Kill While Vanished
+- Kill Anyone
+- Kill Player
+- Telekill Player
+- Kill All Crewmates
+- Kill All Impostors
+- Kill Everyone
 
 ### Passive
-- Free Cosmetics, Avoid Penalties, Unlock Extras
+- Spoof April Fools Date **NEW**
+- Copy Lobby Code On Disconnect **NEW**
+- Free Cosmetics
+- Avoid Penalties
+- Unlock Extra Features
 
 ### Animations
-- Shields, Asteroids, Empty Garbage, Medbay Scan, Fake Cams In Use
+- Shields
+- Asteroids
+- Empty Garbage
+- Medbay Scan
+- Fake Cams In Use
 
 ### Config
-- Open Config, RGB Mode
+- Open Config File
+- RGB Mode
 
-### Other
-- Console, Assign Clean Filter Task
-- **Notifications Test:** Notification / Warning / Error / Popup / Popup with Buttons
+### Outfits **NEW**
+- Shuffle Outfit
+- Shuffle All Outfits
+- Copy Outfit
+- Reset My Outfit
+- Unlock Any Color
 
 ### Notifications
-- On Death, Disconnect, Vent Use
+- On Player Death
+- On Player Disconnect
+- On Vent Usage
+
+### In-Game Notification System
+- Notification
+- Success
+- Warning
+- Error
+- Popup
+- Popup with Yes / No buttons
 
 ### Player Stats
-- Increases/Decreases for All Stats
+- Increase Any Stat
+- Decrease Any Stat
+- Dynamic stat list based on game data
+
+### Other
+- Kick Player
+- Console
+- Assign Clean Filter Task
 
 ---
 
