@@ -102,7 +102,8 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - **Inspired Functions:** MalumMenu
 - **Improved Functions:** ReactorCoreDev
 - **Other Functions:** ReactorCoreDev
-
+- **MalumMenu:** [scp222thj](https://github.com/scp222thj)
+- **MalumMenu Reloaded:** [astra1dev](https://github.com/astra1dev)
 ---
 
 ## Notes
