@@ -19,8 +19,6 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 
 ---
 
----
-
 ## Credits
 - **Developer:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
 - **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
@@ -30,6 +28,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - **Original by MalumMenu:** [scp222thj](https://github.com/scp222thj)
 - **MalumMenu Forks:** [Forks](https://github.com/scp222thj/Forks)
 - **MalumMenu Commits:** [Commits](https://github.com/scp222thj/commits)
+
 ---
 
 ## Installation
@@ -45,6 +44,8 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 6. Launch the game
 7. ZenithX automatically creates: %localappdata%/ZenithX/Sounds
 8. Open the menu with the toggle key **Del** and enjoy!
+
+---
 
 ## Features
 
@@ -212,8 +213,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 ### Player Stats
 - Increase Any Stat
 - Decrease Any Stat
-- Dynamic stat list based on game data
-
+- Stat list based on game data
 ### Other
 - Kick Player
 - Console
