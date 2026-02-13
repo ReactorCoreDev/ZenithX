@@ -210,9 +210,11 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - **Improved Functions:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
 - **Other Functions:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
 - **Original by MalumMenu:** [scp222thj](https://github.com/scp222thj)
-- **I use some code from forks:** [forks](https://github.com/scp222thj/Forks)
-- **I use some code from old commits:** [forks](https://github.com/scp222thj/commits)
+- **MalumMenu Forks:** [Forks](https://github.com/scp222thj/Forks)
+- **MalumMenu Commits:** [Commits](https://github.com/scp222thj/commits)
 ---
 
 ## Notes
 - ZenithX is intended **for educational, experimental, and personal use only**.
+- If you want to make a pull request, then create an issue and add !pullrequest at the start of your message.
+- After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited.
