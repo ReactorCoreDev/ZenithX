@@ -89,7 +89,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Set Fake Role
 
 **Impostor**
-- Allow Tasks **NEW**
+- Allow Tasks
 - Kill Reach
 - Kill Anyone
 - No Kill Cooldown
@@ -98,8 +98,8 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 **Shapeshifter**
 - No Shapeshift Animation
 - Endless Shapeshift Duration
-- Shapeshift All **NEW**
-- Reset Shapeshifts **NEW**
+- Shapeshift All
+- Reset Shapeshifts
 
 **Crewmate**
 - Task Menu
@@ -108,7 +108,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Endless Tracking
 - No Track Delay
 - No Track Cooldown
-- Track Reach **NEW**
+- Track Reach
 
 **Engineer**
 - Endless Vent Time
@@ -118,7 +118,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Endless Battery
 - No Vitals Cooldown
 
-**Detective** **NEW**
+**Detective**
 - Interrogate Reach
 - Infinite Interrogations
 
@@ -145,7 +145,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 
 ### Chat
 - Enable Chat
-- Chat Mimic **NEW**
+- Chat Mimic
 - Chat Features / Jailbreak
 
 ### Host-Only
@@ -175,8 +175,8 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Kill Everyone
 
 ### Passive
-- Spoof April Fools Date **NEW**
-- Copy Lobby Code On Disconnect **NEW**
+- Spoof April Fools Date
+- Copy Lobby Code On Disconnect
 - Free Cosmetics
 - Avoid Penalties
 - Unlock Extra Features
@@ -192,7 +192,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Open Config File
 - RGB Mode
 
-### Outfits **NEW**
+### Outfits
 - Shuffle Outfit
 - Shuffle All Outfits
 - Copy Outfit
@@ -204,7 +204,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - On Player Disconnect
 - On Vent Usage
 
-### In-Game Notification System
+### Notification System
 - Notification
 - Success
 - Warning
