@@ -12,6 +12,40 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 
 ---
 
+## Notes
+- ZenithX is intended **for educational, experimental, and personal use only**.
+- If you want to make a pull request, then create an issue and add !pullrequest at the start of your message.
+- After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited.
+
+---
+
+---
+
+## Credits
+- **Developer:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
+- **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
+- **Sounds & Utilities:** Custom Implementation
+- **Improved Functions:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
+- **Other Functions:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
+- **Original by MalumMenu:** [scp222thj](https://github.com/scp222thj)
+- **MalumMenu Forks:** [Forks](https://github.com/scp222thj/Forks)
+- **MalumMenu Commits:** [Commits](https://github.com/scp222thj/commits)
+---
+
+## Installation
+
+1. Install **BepInEx** for Among Us (if not already present).
+   - [BepInEx For EpicGames, MicrosoftStore, And XboxApp](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp.zip)  
+   - [BepInEx For Steam, And Itch](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
+2. Place **BepInEx** in your among us folder
+3. Extract **BepInEx**
+4. Download ZenithX.dll
+   - [ZenithX](https://github.com/ReactorCoreDev/ZenithX/releases/download/ZenithX/ZenithX.dll)
+5. Place it in BepInEx/Plugins
+6. Launch the game
+7. ZenithX automatically creates: %localappdata%/ZenithX/Sounds
+8. Open the menu with the toggle key **Del** and enjoy!
+
 ## Features
 
 ### Player
@@ -184,37 +218,3 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Kick Player
 - Console
 - Assign Clean Filter Task
-
----
-
-## Installation
-
-1. Install **BepInEx** for Among Us (if not already present).
-   - [BepInEx For EpicGames, MicrosoftStore, And XboxApp](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp.zip)  
-   - [BepInEx For Steam, And Itch](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
-2. Place **BepInEx** in your among us folder
-3. Extract **BepInEx**
-4. Download ZenithX.dll
-   - [ZenithX](https://github.com/ReactorCoreDev/ZenithX/releases/download/ZenithX/ZenithX.dll)
-5. Place it in BepInEx/Plugins
-6. Launch the game
-7. ZenithX automatically creates: %localappdata%/ZenithX/Sounds
-8. Open the menu with the toggle key **Del** and enjoy!
-
----
-
-## Credits
-- **Developer:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-- **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
-- **Sounds & Utilities:** Custom Implementation
-- **Improved Functions:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-- **Other Functions:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-- **Original by MalumMenu:** [scp222thj](https://github.com/scp222thj)
-- **MalumMenu Forks:** [Forks](https://github.com/scp222thj/Forks)
-- **MalumMenu Commits:** [Commits](https://github.com/scp222thj/commits)
----
-
-## Notes
-- ZenithX is intended **for educational, experimental, and personal use only**.
-- If you want to make a pull request, then create an issue and add !pullrequest at the start of your message.
-- After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited.
