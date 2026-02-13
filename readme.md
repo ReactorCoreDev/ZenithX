@@ -1,8 +1,10 @@
 # ZenithX, An Advanced Utility Menu for Among Us
 
 > **Disclaimer:**
-> - This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. > - Portions of the materials contained herein are property of Innersloth LLC.
-> - Usage of this mod can violate the terms of service of Among Us, which may lead to punitive action including temporary or permanent bans from the game. > - The creator is not responsible for any consequences you may face due to usage. Use at your own risk.
+> - This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC.
+> - Portions of the materials contained herein are property of Innersloth LLC.
+> - Usage of this mod can violate the terms of service of Among Us, which may lead to punitive action including temporary or permanent bans from the game.
+> - The creator is not responsible for any consequences you may face due to usage. Use at your own risk.
 
 ---
 
