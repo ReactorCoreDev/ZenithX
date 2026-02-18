@@ -10,6 +10,7 @@
 
 > *Status:*
 > - Updating and finding bugs
+> - After update version will be: v2.7.7
 
 ---
 
