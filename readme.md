@@ -10,8 +10,8 @@
 
 > *Status:*
 > - Updating and finding bugs
-> - After update version will be: v2.7.7
-> - Update has been suspended until further notice. (Theres bugs so maybe ill release soon...)
+> - After update, version will be: v2.7.7
+> - Update has been unsuspended, there are still some bugs.
 ---
 
 ## About ZenithX
