@@ -9,9 +9,7 @@
 ---
 
 > *Status:*
-> - Updating and finding bugs
-> - After update, version will be: v2.7.7
-> - Update has been unsuspended, there are still some bugs.
+> - Published update!
 ---
 
 ## About ZenithX
