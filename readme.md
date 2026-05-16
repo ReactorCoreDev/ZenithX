@@ -14,8 +14,8 @@
 ---
 
 > *Important:*
-> - Before creating an issue, make sure it's actually an issue not just some spam or false report and make sure to provide context on the issue or bug.
-> - (Poll requests can be created in issues with !pollrequest)
+> - Before creating an issue, make sure it's actually an issue, not just some spam or false report, and make sure to provide context on the issue or bug.
+> - Poll requests can be created in issues with !pollrequest in the title
 
 ---
 
