@@ -8,10 +8,20 @@
 
 ---
 
+<div align="center">
+
+![][banner-light]
+![][banner-dark]
+
+![][badge-license]
+![][badge-actions]
+![][badge-downloads]
+[![][badge-latest]][repo-latest]
+[![][badge-discord]][discord-invite]
+![][badge-stars]
+
 > *Status:*
 > - Published update!
-
----
 
 > *Important:*
 > - Before creating an issue, make sure it's actually an issue, not just some spam or false report, and make sure to provide context on the issue or bug.
@@ -22,8 +32,6 @@
 ## About ZenithX
 
 ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It enables players to unlock, modify, and experiment with gameplay through an interface offering complete control over the game’s environment, roles, and mechanics.
-
----
 
 ## Notes
 - ZenithX is intended **for educational, experimental, and personal use only**.
