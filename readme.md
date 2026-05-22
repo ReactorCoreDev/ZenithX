@@ -3,12 +3,15 @@
 > [!CAUTION]
 > The only official place to download ZenithX is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 
-ZenithX is an **advanced utility and hack menu** for *Among Us*, powered by **BepInEx**. It allows players to modify gameplay, unlock features, and experiment with the game’s mechanics through a feature-rich menu.
+> [!NOTE]
+> ZenithX is an **advanced utility and hack menu** for *Among Us*, powered by **BepInEx**.
+> It allows players to modify gameplay, unlock features, and experiment
+> with the game’s mechanics through a feature-rich menu.
 
 > **Disclaimer:**
 > - This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC.
-> - Portions of the materials contained herein are property of Innersloth LLC.
-> - Usage of this mod can violate the terms of service of Among Us, which may lead to punitive action including temporary or permanent bans from the game.
+> - Portions of the materials contained herein are the property of Innersloth LLC.
+> - Usage of this mod can violate the terms of service of Among Us, which may lead to punitive action, including temporary or permanent bans from the game.
 > - The creator is not responsible for any consequences you may face due to usage. Use at your own risk.
 
 ---
@@ -37,10 +40,10 @@ ZenithX is an **advanced utility and hack menu** for *Among Us*, powered by **Be
 
 ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It enables players to unlock, modify, and experiment with gameplay through an interface offering complete control over the game’s environment, roles, and mechanics.
 
-## > [!NOTE]
-> - ZenithX is intended **for educational, experimental, and personal use only**.
-> - If you want to make a pull request, then create an issue and add !pullrequest at the start of your message.
-> - After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited.
+> [!NOTE]
+> ZenithX is intended **for educational, experimental, and personal use only**.
+> If you want to make a pull request, then create an issue and add !pullrequest at the start of your message.
+> After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited.
 
 ---
 
