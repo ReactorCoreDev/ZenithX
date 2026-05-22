@@ -1,4 +1,4 @@
-# ZenithX <Advanced Utility Menu for Among Us>
+# ZenithX
 
 > [!CAUTION]
 > The only official place to download ZenithX is this GitHub repository. Any other websites offering downloads are not affiliated with us.
