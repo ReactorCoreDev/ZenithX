@@ -252,3 +252,28 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Kick Player
 - Console
 - Assign Clean Filter Task
+
+<div align="center">
+
+![][repo-showcase-light]
+![][repo-showcase-dark]
+
+</div>
+
+[banner-light]: https://github.com/fishstrap/fishstrap/raw/main/Images/Fishstrap-Light.png#gh-light-mode-only
+[banner-dark]:  https://github.com/fishstrap/fishstrap/raw/main/Images/Fishstrap-Dark.png#gh-dark-mode-only
+
+[badge-license]:   https://img.shields.io/github/license/fishstrap/fishstrap?style=flat-square
+[badge-actions]:   https://img.shields.io/github/actions/workflow/status/fishstrap/fishstrap/ci-release.yml?branch=main&style=flat-square&label=builds
+[badge-downloads]: https://img.shields.io/github/downloads/fishstrap/fishstrap/latest/total?style=flat-square&color=981bfe
+[badge-latest]:    https://img.shields.io/github/v/release/fishstrap/fishstrap?style=flat-square&color=7a39fb
+[badge-discord]:   https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=discord&color=4d3dff
+[badge-stars]:     https://img.shields.io/github/stars/fishstrap/fishstrap?style=flat-square&color=dd9900
+
+[repo-latest]:    https://github.com/fishstrap/fishstrap/releases/latest
+[repo-new-issue]: https://github.com/fishstrap/fishstrap/issues/new/choose
+
+[repo-showcase-dark]:  https://github.com/fishstrap/fishstrap/raw/main/Images/Showcase-Dark.png#gh-dark-mode-only
+[repo-showcase-light]:  https://github.com/fishstrap/fishstrap/raw/main/Images/Showcase-Light.png#gh-light-mode-only
+
+[discord-invite]: https://discord.gg/SRs5zb9BJd
