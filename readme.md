@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ![][banner-light]
 ![][banner-dark]
@@ -19,6 +19,8 @@
 [![][badge-latest]][repo-latest]
 [![][badge-discord]][discord-invite]
 ![][badge-stars]
+
+</div>
 
 > *Status:*
 > - Published update!
