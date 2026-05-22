@@ -1,5 +1,8 @@
 # ZenithX, An Advanced Utility Menu for Among Us
 
+> [!CAUTION]
+> The only official place to download ZenithX is this GitHub repository. Any other websites offering downloads are not affiliated with us.
+
 > **Disclaimer:**
 > - This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC.
 > - Portions of the materials contained herein are property of Innersloth LLC.
@@ -8,18 +11,15 @@
 
 ---
 
-<div>
-
+<div align="center">
 ![][banner-light]
 ![][banner-dark]
-
 ![][badge-license]
 ![][badge-actions]
 ![][badge-downloads]
 [![][badge-latest]][repo-latest]
 [![][badge-discord]][discord-invite]
 ![][badge-stars]
-
 </div>
 
 > *Status:*
