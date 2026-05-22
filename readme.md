@@ -3,6 +3,8 @@
 > [!CAUTION]
 > The only official place to download ZenithX is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 
+ZenithX is an **advanced utility and hack menu** for *Among Us*, powered by **BepInEx**. It allows players to modify gameplay, unlock features, and experiment with the game’s mechanics through a feature-rich menu.
+
 > **Disclaimer:**
 > - This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC.
 > - Portions of the materials contained herein are property of Innersloth LLC.
