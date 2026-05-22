@@ -18,25 +18,19 @@
 > - Usage of this mod can violate the terms of service of Among Us, which may lead to punitive action, including temporary or permanent bans from the game.
 > - The creator is not responsible for any consequences you may face due to usage. Use at your own risk.
 
----
-
 <div align="center">
-![][banner-light]
-![][banner-dark]
-![][badge-license]
-![][badge-actions]
-![][badge-downloads]
-[![][badge-latest]][repo-latest]
-[![][badge-discord]][discord-invite]
-![][badge-stars]
+  <br>
+  
+  [![License](https://img.shields.io/github/license/ReactorCoreDev/ZenithX?style=flat-square)](LICENSE)
+  [![Builds](https://img.shields.io/github/actions/workflow/status/ReactorCoreDev/ZenithX/ci-release.yml?branch=main&style=flat-square&label=builds)](https://github.com/ReactorCoreDev/ZenithX/actions)
+  [![Downloads](https://img.shields.io/github/downloads/ReactorCoreDev/ZenithX/latest/total?style=flat-square&color=981bfe)](https://github.com/ReactorCoreDev/ZenithX/releases/latest)
+  [![Latest](https://img.shields.io/github/v/release/ReactorCoreDev/ZenithX?style=flat-square&color=7a39fb)](https://github.com/ReactorCoreDev/ZenithX/releases/latest)
+  [![Discord](https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/YOUR_INVITE_HERE)
+  [![Stars](https://img.shields.io/github/stars/ReactorCoreDev/ZenithX?style=flat-square&color=dd9900)](https://github.com/ReactorCoreDev/ZenithX/stargazers)
 </div>
 
 > *Status:*
-> - ...
-
-> *Important:*
-> - Before creating an issue, make sure it's actually an issue, not just some spam or false report, and make sure to provide context on the issue or bug.
-> - Poll requests can be created in issues with !pollrequest in the title
+> - No status as of now
 
 ---
 
@@ -252,14 +246,3 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - Kick Player
 - Console
 - Assign Clean Filter Task
-
-[banner-light]: https://github.com/ReactorCoreDev/ZenithX/raw/main/Images/banner-light.png#gh-light-mode-only
-[banner-dark]: https://github.com/ReactorCoreDev/ZenithX/raw/main/Images/banner-dark.png#gh-dark-mode-only
-[badge-license]: https://img.shields.io/github/license/ReactorCoreDev/ZenithX?style=flat-square
-[badge-actions]: https://img.shields.io/github/actions/workflow/status/ReactorCoreDev/ZenithX/ci-release.yml?branch=main&style=flat-square&label=builds
-[badge-downloads]: https://img.shields.io/github/downloads/ReactorCoreDev/ZenithX/latest/total?style=flat-square&color=981bfe
-[badge-latest]: https://img.shields.io/github/v/release/ReactorCoreDev/ZenithX?style=flat-square&color=7a39fb
-[badge-discord]: https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=discord&color=4d3dff
-[badge-stars]: https://img.shields.io/github/stars/ReactorCoreDev/ZenithX?style=flat-square&color=dd9900
-[repo-latest]: https://github.com/ReactorCoreDev/ZenithX/releases/latest
-[discord-invite]: https://discord.gg/
