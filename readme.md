@@ -25,7 +25,7 @@
   [![Builds](https://img.shields.io/github/actions/workflow/status/ReactorCoreDev/ZenithX/ci-release.yml?branch=main&style=flat-square&label=builds)](https://github.com/ReactorCoreDev/ZenithX/actions)
   [![Downloads](https://img.shields.io/github/downloads/ReactorCoreDev/ZenithX/latest/total?style=flat-square&color=981bfe)](https://github.com/ReactorCoreDev/ZenithX/releases/latest)
   [![Latest](https://img.shields.io/github/v/release/ReactorCoreDev/ZenithX?style=flat-square&color=7a39fb)](https://github.com/ReactorCoreDev/ZenithX/releases/latest)
-  [![Discord](https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/YOUR_INVITE_HERE)
+  [![Discord](https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/my_invite_here_bc_i_forgot_it_lol)
   [![Stars](https://img.shields.io/github/stars/ReactorCoreDev/ZenithX?style=flat-square&color=dd9900)](https://github.com/ReactorCoreDev/ZenithX/stargazers)
 </div>
 
@@ -41,7 +41,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 > [!NOTE]
 > ZenithX is intended **for educational, experimental, and personal use only**.
 > If you want to make a pull request, then create an issue and add !pullrequest at the start of your message.
-> After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited.
+> After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited (if you'd like).
 
 ---
 
@@ -50,12 +50,10 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 > **Developers:**
 > - [realheckersbrother](https://github.com/realheckersbrother)
 - **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
-- **Sounds & Utilities:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-- **Improved Functions:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-- **Other Functions:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-- **Original by MalumMenu:** [scp222thj](https://github.com/scp222thj)
-- **MalumMenu Forks:** [Forks](https://github.com/scp222thj/Forks)
-- **MalumMenu Commits:** [Commits](https://github.com/scp222thj/commits)
+- > **Orginal Functions:**
+> - [scp222thj](https://github.com/scp222thj)
+> - [Forks](https://github.com/scp222thj/Forks)
+> - [Commits](https://github.com/scp222thj/commits)
 
 ---
 
@@ -74,175 +72,3 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 8. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
 
 ---
-
-## Features
-
-### Player
-- NoClip, SpeedHack, Revive Self
-- Force Aum RPC (all players)
-- No Ability Cooldown, Invert Controls
-- **Teleport:** To Cursor / To Player
-- **Murder:** Murder Player / Murder All
-- Force Aum RPC For Everyone
-- No Ability Cooldown toggle separation
-- Invert Controls toggle
-
-### ESP
-- Show Player Info, See Roles, See Ghosts
-- No Shadows (FullBright)
-- Reveal Votes
-- More Lobby Info
-
-**Camera**
-- Zoom Out
-- Spectate
-- Freecam
-
-**Tracers**
-- Crewmates
-- Impostors
-- Ghosts
-- Dead Bodies
-- Color-based Tracers
-
-**Minimap**
-- Crewmates
-- Impostors
-- Ghosts
-- Color-based
-
-### Roles
-- Set Fake Role
-
-**Impostor**
-- Allow Tasks
-- Kill Reach
-- Kill Anyone
-- No Kill Cooldown
-- Auto Kill Nearby
-
-**Shapeshifter**
-- No Shapeshift Animation
-- Endless Shapeshift Duration
-- Shapeshift All
-- Reset Shapeshifts
-
-**Crewmate**
-- Task Menu
-
-**Tracker**
-- Endless Tracking
-- No Track Delay
-- No Track Cooldown
-- Track Reach
-
-**Engineer**
-- Endless Vent Time
-- No Vent Cooldown
-
-**Scientist**
-- Endless Battery
-- No Vitals Cooldown
-
-**Detective**
-- Interrogate Reach
-- Infinite Interrogations
-
-### Ship
-- Change Map to Sabotage Map
-- Auto-Open Doors On Use
-- Unfixable Lights
-- Infinite Doors
-- Report Body
-- Close Meeting
-
-**Sabotage**
-- Reactor
-- Oxygen
-- Lights
-- Comms
-- Doors Menu
-- MushroomMixup
-
-**Vents**
-- Unlock Vents
-- Kick All From Vents
-- Walk In Vents
-
-### Chat
-- Enable Chat
-- Chat Mimic
-- Chat Features / Jailbreak
-
-### Host-Only
-- Force Start
-- Dead Troll
-- Increase Lobby Timer
-- Skip Meeting
-- Revive Any
-- Revive All
-- Force Impostor
-- Teleport All
-- No Options Limits
-
-**Buggy**
-- Impostor Hack
-- God Mode
-- Evil Vote
-- Vote Immune
-
-**Murder**
-- Kill While Vanished
-- Kill Anyone
-- Kill Player
-- Telekill Player
-- Kill All Crewmates
-- Kill All Impostors
-- Kill Everyone
-
-### Passive
-- Spoof April Fools Date
-- Copy Lobby Code On Disconnect
-- Free Cosmetics
-- Avoid Penalties
-- Unlock Extra Features
-
-### Animations
-- Shields
-- Asteroids
-- Empty Garbage
-- Medbay Scan
-- Fake Cams In Use
-
-### Config
-- Open Config File
-- RGB Mode
-
-### Outfits
-- Shuffle Outfit
-- Shuffle All Outfits
-- Copy Outfit
-- Reset My Outfit
-- Unlock Any Color
-
-### Notifications
-- On Player Death
-- On Player Disconnect
-- On Vent Usage
-
-### Notification System
-- Notification
-- Success
-- Warning
-- Error
-- Popup
-- Popup with Yes / No buttons
-
-### Player Stats
-- Increase Any Stat
-- Decrease Any Stat
-- Stat list based on game data
-### Other
-- Kick Player
-- Console
-- Assign Clean Filter Task
