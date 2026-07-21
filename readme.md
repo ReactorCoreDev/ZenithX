@@ -50,10 +50,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 > **Developers:**
 > - [realheckersbrother](https://github.com/realheckersbrother)
 - **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
-- > **Orginal Functions:**
-> - [scp222thj](https://github.com/scp222thj)
-> - [Forks](https://github.com/scp222thj/Forks)
-> - [Commits](https://github.com/scp222thj/commits)
+- **Some Orginal Functions:** [scp222thj](https://github.com/scp222thj)
 
 ---
 
