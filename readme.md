@@ -60,11 +60,11 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 ## Installation
 
 1. Install **BepInEx** for Among Us (if not already present).
-   - [BepInEx For EpicGames, MicrosoftStore, And XboxApp](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp.zip)  
-   - [BepInEx For Steam, And Itch](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
+   - [BepInEx for EpicGames, MicrosoftStore, and XboxApp](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp.zip)  
+   - [BepInEx for Steam, and Itch](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
 2. Place **BepInEx** in your among us folder
 3. Extract **BepInEx**
-4. Download ZenithX.dll
+4. Download ZenithX
    - [ZenithX](https://github.com/ReactorCoreDev/ZenithX/releases/download/ZenithX/ZenithX.dll)
 5. Place it in BepInEx/Plugins
 6. Launch the game
