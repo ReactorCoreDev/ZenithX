@@ -68,7 +68,6 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
    - [ZenithX](https://github.com/ReactorCoreDev/ZenithX/releases/download/ZenithX/ZenithX.dll)
 5. Place it in BepInEx/Plugins
 6. Launch the game
-7. ZenithX automatically creates: %localappdata%/ZenithX/Sounds
-8. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
+7. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
 
 ---
