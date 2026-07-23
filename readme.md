@@ -18,6 +18,8 @@
 > - Usage of this mod can violate the terms of service of Among Us, which may lead to punitive action, including temporary or permanent bans from the game.
 > - The creator is not responsible for any consequences you may face due to usage. Use at your own risk.
 
+---
+
 <div align="center">
   <br>
   
@@ -28,6 +30,8 @@
   [![Discord](https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/my_invite_here_bc_i_forgot_it_lol)
   [![Stars](https://img.shields.io/github/stars/ReactorCoreDev/ZenithX?style=flat-square&color=dd9900)](https://github.com/ReactorCoreDev/ZenithX/stargazers)
 </div>
+
+---
 
 > *Status:*
 > - Working on new update
