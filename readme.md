@@ -30,7 +30,7 @@
 </div>
 
 > *Status:*
-> - No status as of now
+> - Working on new update
 
 ---
 
@@ -47,7 +47,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 
 ## Credits
 - **Creator:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-> **Lead Developer:** [Zo5yn](https://github.com/Zo5yn)
+- **Lead Developer:** [Zo5yn](https://github.com/Zo5yn)
 - **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
 - **Some Orginal Functions:** [scp222thj](https://github.com/scp222thj)
 
