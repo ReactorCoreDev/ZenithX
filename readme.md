@@ -17,7 +17,7 @@
 > - Portions of the materials contained herein are the property of Innersloth LLC.
 > - Usage of this mod can violate the terms of service of Among Us, which may lead to punitive action, including temporary or permanent bans from the game.
 > - The creator is not responsible for any consequences you may face due to usage. Use at your own risk.
-
+> - We will log games, purely to check if people are using our menu.
 ---
 
 <div align="center">
@@ -34,7 +34,7 @@
 ---
 
 > *Status:*
-> - Working on new update
+> - No status yet.
 
 ---
 
