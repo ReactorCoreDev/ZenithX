@@ -64,9 +64,9 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
    - [BepInEx for Steam, and Itch](https://github.com/ReactorCoreDev/ZenithX/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
 2. Place **BepInEx** in your among us folder
 3. Extract **BepInEx**
-4. Download ZenithX
+4. Download **ZenithX**
    - [ZenithX](https://github.com/ReactorCoreDev/ZenithX/releases/download/ZenithX/ZenithX.dll)
-5. Place it in BepInEx/Plugins
+5. Place it in **BepInEx**/Plugins
 6. Launch the game
 7. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
 
