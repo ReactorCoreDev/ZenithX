@@ -2,6 +2,7 @@
 
 > [!CAUTION]
 > The only official place to download ZenithX is this GitHub repository. Any other websites offering downloads are not affiliated with us.
+> We will log games, and we can join your lobbies. Do not be afraid, as it's only to check if people are using **ZenithX**.
 
 ---
 
@@ -18,7 +19,7 @@
 > - Portions of the materials contained herein are the property of Innersloth LLC.
 > - Usage of this mod can violate the terms of service of Among Us, which may lead to punitive action, including temporary or permanent bans from the game.
 > - The creator is not responsible for any consequences you may face due to usage. Use at your own risk.
-> - We will log games, purely to check if people are using our menu.
+
 ---
 
 <div align="center">
