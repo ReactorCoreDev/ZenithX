@@ -48,7 +48,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 > ZenithX is intended **for educational, experimental, and personal use only**.
 > If you want to make a pull request, then create an issue and add !pullrequest at the start of your message.
 > After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited (if you'd like).
-
+> [License](https://github.com/ReactorCoreDev/ZenithX/blob/main/LICENSE)
 ---
 
 ## Credits
