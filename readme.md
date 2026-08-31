@@ -73,3 +73,92 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 7. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
 
 ---
+
+# Changelog
+
+## 2.8.9
+
+### Added
+- Player count — shows the number of people currently using ZenithX.
+- v18 support.
+- Various fixes and improvements.
+
+---
+
+## 2.8.8
+
+### Added
+- Revamped UI (still a work in progress).
+- Various undocumented changes and improvements.
+
+---
+
+## 2.8.7
+
+### Added
+- Localization support.
+- Improved freeze animation.
+- Fixed friend code spoofing.
+- Fixed level spoofing.
+- Immortality.
+- Moved "No Game End" to "Host Powers".
+
+### Anti-Cheat
+- Fixed 1 false positive.
+
+---
+
+## 2.8.6
+
+### Added
+- "Teleport All" (Vent).
+- "Spam TP All" (Vent).
+- "Spam TP Imps" (Vent).
+- "Custom Seekers" — supports 3 seekers; run in the lobby before starting.
+- Various bug fixes.
+
+### Anti-Cheat
+- Further anti-cheat improvements.
+- False positives may still occur.
+
+---
+
+## 2.8.5
+
+### Added
+- Overhauled UI.
+- Renamed "Set Body Type" to "Body Types".
+
+### Anti-Cheat
+- Improved anti-cheat system.
+
+---
+
+## 2.8.4
+
+### Added
+- "Disco Color".
+- "Show Tasks in Meetings".
+- "Set Body Type".
+
+### Removed
+- "Change Everyone's Outfit to Yours".
+- "Change Everyone's Name to Yours".
+
+### Bug Fixes
+- Fixed "Uncapped FPS" not disabling correctly.
+- Fixed the updater launching the incorrect version of Among Us.
+
+---
+
+## 2.8.3
+
+### Added
+- Renamed and reorganized features.
+- "Change Everyone's Color to Yours".
+- "Change Everyone's Outfit to Yours".
+- "Change Everyone's Name to Yours".
+- "Uncapped FPS".
+- "Show Your FPS".
+- Automatic updater (via hash checking).
+- "Fast Teleport" — hold Ctrl + right-click.
