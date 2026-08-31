@@ -10,6 +10,7 @@
 > ZenithX is an **advanced utility and hack menu** for *Among Us*, powered by **BepInEx**.
 > It allows players to modify gameplay, unlock features, and experiment
 > with the game’s mechanics through a feature-rich menu.
+> 
 > This menu is still developing, meaning that some features might kick you until fixed because of the new updates.
 
 ---
