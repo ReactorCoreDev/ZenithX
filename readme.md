@@ -79,7 +79,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 ## 2.8.9
 
 ### Added
-- Player count — shows the number of people currently using ZenithX.
+- Player count, shows the number of people currently using ZenithX.
 - v18 support.
 - Various fixes and improvements.
 
@@ -114,7 +114,7 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - "Teleport All" (Vent).
 - "Spam TP All" (Vent).
 - "Spam TP Imps" (Vent).
-- "Custom Seekers" — supports 3 seekers; run in the lobby before starting.
+- "Custom Seekers", supports more seekers; run in the game before starting.
 - Various bug fixes.
 
 ### Anti-Cheat
