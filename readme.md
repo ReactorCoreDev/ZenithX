@@ -2,8 +2,8 @@
 
 > [!CAUTION]
 > The only official place to download ZenithX is this GitHub repository. Any other websites offering downloads are not affiliated with us.
-> We will log games, and we can join your lobbies. Do not be afraid, as it's only to check if people are using **ZenithX**.
-
+> 
+> We log public (not private) games you join, Do not be afraid, as it's only for the devs to meet you!
 ---
 
 > [!NOTE]
