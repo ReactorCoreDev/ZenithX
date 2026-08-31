@@ -12,6 +12,8 @@
 > with the game’s mechanics through a feature-rich menu.
 > 
 > This menu is still developing, meaning that some features might kick you until fixed because of the new updates.
+>
+> Our discord is at: [Zenith X](https://discord.gg/wHJaqJM3V)
 
 ---
 
@@ -30,7 +32,7 @@
   [![Builds](https://img.shields.io/github/actions/workflow/status/ReactorCoreDev/ZenithX/ci-release.yml?branch=main&style=flat-square&label=builds)](https://github.com/ReactorCoreDev/ZenithX/actions)
   [![Downloads](https://img.shields.io/github/downloads/ReactorCoreDev/ZenithX/latest/total?style=flat-square&color=981bfe)](https://github.com/ReactorCoreDev/ZenithX/releases/latest)
   [![Latest](https://img.shields.io/github/v/release/ReactorCoreDev/ZenithX?style=flat-square&color=7a39fb)](https://github.com/ReactorCoreDev/ZenithX/releases/latest)
-  [![Discord](https://img.shields.io/discord/1529860217687506985?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/https://discord.gg/wHJaqJM3VU)
+  [![Discord](https://img.shields.io/discord/1529860217687506985?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/wHJaqJM3VU)
   [![Stars](https://img.shields.io/github/stars/ReactorCoreDev/ZenithX?style=flat-square&color=dd9900)](https://github.com/ReactorCoreDev/ZenithX/stargazers)
 </div>
 
