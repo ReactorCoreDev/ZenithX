@@ -2,8 +2,6 @@
 
 > [!CAUTION]
 > The only official place to download ZenithX is this GitHub repository. Any other websites offering downloads are not affiliated with us.
-> 
-> We log public (not private) games you join, Do not be afraid, as it's only for the devs to meet you!
 ---
 
 > [!NOTE]
@@ -49,8 +47,12 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 
 > [!NOTE]
 > ZenithX is intended **for educational, experimental, and personal use only**.
-> If you want to make a pull request, then create an issue and add !pullrequest at the start of your message.
+> 
+> If you want to make a pull request, then create an issue and add [PULL REQUEST] at the start of the title.
+> If you want to make a suggestion, then create an issue and add [FEATURE REQUEST] at the start of the title.
+> 
 > After providing the necessary code, I will decide whether to add it to ZenithX or not. If it is added, you will be credited (if you'd like).
+> 
 > [License](https://github.com/ReactorCoreDev/ZenithX/blob/main/LICENSE)
 ---
 
