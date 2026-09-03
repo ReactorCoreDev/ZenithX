@@ -84,6 +84,15 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 ## 2.8.9
 
 ### Added
+- Log games consent.
+- Version checking has been updated to support 2.8.9-1 (2.8.9 #1).
+- Customizable configurations.
+
+---
+
+## 2.8.9
+
+### Added
 - Player count, shows the number of people currently using ZenithX.
 - v18 support.
 - Various fixes and improvements.
@@ -166,4 +175,4 @@ ZenithX is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. I
 - "Uncapped FPS".
 - "Show Your FPS".
 - Automatic updater (via hash checking).
-- "Fast Teleport" — hold Ctrl + right-click.
+- "Fast Teleport" hold Ctrl + right-click.
