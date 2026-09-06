@@ -11,7 +11,7 @@
 > 
 > This menu is still developing, meaning that some features might kick you until fixed because of the new updates.
 >
-> The discord server invite link is: [ZenithX](https://discord.gg/wHJaqJM3V)
+> The discord server invite link is: https://discord.gg/wHJaqJM3VU
 
 ---
 
