@@ -1,7 +1,5 @@
 # ZenithX
 
-> Last updated: 2026-09-06
-
 > [!CAUTION]
 > The only official place to download ZenithX is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 ---
