@@ -81,3 +81,9 @@ Zyven is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It 
 5. Place it in **BepInEx**/Plugins
 6. Launch the game
 7. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
+
+Sneak peak:
+Renamed files
+Renamed to zyven
+Removed unnecessary usings in files
+Removed false detection for AC, improved AC, and added 2 more checks.
