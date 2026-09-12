@@ -3,7 +3,7 @@
 > [!CAUTION]
 > The only official place to download Zyven is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 >
-> By downloading this software or using this software you agree to our license.
+> By downloading this software or using this software you agree to our [License](https://github.com/ReactorCoreDev/Zyven/blob/main/LICENSE).
 ---
 
 > [!NOTE]
@@ -51,7 +51,9 @@ Zyven is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It 
 > Zyven is intended **for educational, experimental, and personal use only**.
 > 
 > If you want to make a pull request, then create an issue and add [PULL REQUEST] at the start of the title.
+> 
 > If you want to make a suggestion, then create an issue and add [SUGGESTION] at the start of the title.
+> 
 > If you want to make a bug report, then create an issue and add [BUG REPORT] at the start of the title.
 > 
 > After providing the necessary code for pull request, I will decide whether to add it to Zyven or not. If it is added, you will be credited (if you'd like).
